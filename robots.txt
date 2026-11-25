@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /js.php
+Disallow: /js.html
 Allow: /
 
 Sitemap: https://garbway.com/sitemap.xml
